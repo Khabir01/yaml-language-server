@@ -41,7 +41,7 @@
     "vscode-languageserver-textdocument": "^1.0.1",
     "vscode-languageserver-types": "^3.16.0",
     "vscode-nls": "^5.0.0",
-    "vscode-uri": "^3.0.2",
+    "vscode-uri": "^3.0.8",
     "yaml": "2.2.2"
   },
   "devDependencies": {
