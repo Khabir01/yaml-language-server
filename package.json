@@ -38,7 +38,7 @@
     "request-light": "^0.5.7",
     "vscode-json-languageservice": "4.1.8",
     "vscode-languageserver": "^7.0.0",
-    "vscode-languageserver-textdocument": "^1.0.1",
+    "vscode-languageserver-textdocument": "^1.0.10",
     "vscode-languageserver-types": "^3.16.0",
     "vscode-nls": "^5.0.0",
     "vscode-uri": "^3.0.2",
